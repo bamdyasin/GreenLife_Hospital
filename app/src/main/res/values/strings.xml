@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">GreenLife Hospital</string>
+    <!-- Doctor 1 -->
+    <string name="doctor1_name">Dr. Ayesha Rahman</string>
+    <string name="doctor1_subject">MBBS, BCS (Endocrinology)</string>
+    <string name="doctor1_appointment">+8801865456701</string>
+
+    <!-- Doctor 2 -->
+    <string name="doctor2_name">Dr. Momin Khan</string>
+    <string name="doctor2_subject">MBBS, FCPS, BCS (Ophthalmology)</string>
+    <string name="doctor2_appointment">+8801832456702</string>
+    <!-- Doctor 3 -->
+    <string name="doctor3_name">Dr. Nasreen Islam</string>
+    <string name="doctor3_subject">MBBS, MPH (Pediatrics)</string>
+    <string name="doctor3_appointment">+8801878656703</string>
+
+    <!-- Doctor 4 -->
+    <string name="doctor4_name">Dr. Ahmed Hasan</string>
+    <string name="doctor4_subject">MBBS, MD (Cardiology)</string>
+    <string name="doctor4_appointment">+8801823456704</string>
+
+    <!-- Doctor 5 -->
+    <string name="doctor5_name">Dr. Ayesha Rahman</string>
+    <string name="doctor5_subject">MBBS, MS (Gynecology)</string>
+    <string name="doctor5_appointment">+8801898756705</string>
+
+    <!-- Doctor 6 -->
+    <string name="doctor6_name">Dr. Kamal Hossain</string>
+    <string name="doctor6_subject">MBBS, DCH (Pediatrics)</string>
+    <string name="doctor6_appointment">+8801845656706</string>
+
+    <!-- Doctor 7 -->
+    <string name="doctor7_name">Dr. Sultana Akhter</string>
+    <string name="doctor7_subject">MBBS, PhD (Neurology)</string>
+    <string name="doctor7_appointment">+8801878956707</string>
+
+    <!-- Doctor 8 -->
+    <string name="doctor8_name">Dr. Rahman Ali</string>
+    <string name="doctor8_subject">MBBS, FCPS (Orthopedics)</string>
+    <string name="doctor8_appointment">+8801865456708</string>
+
+    <!-- Doctor 9 -->
+    <string name="doctor9_name">Dr. Fatima Begum</string>
+    <string name="doctor9_subject">MBBS, MRCP (Dermatology)</string>
+    <string name="doctor9_appointment">+8801812356709</string>
+
+    <!-- Doctor 10 -->
+    <string name="doctor10_name">Dr. Mohammad Khan</string>
+    <string name="doctor10_subject">MBBS, PhD (Psychiatry)</string>
+    <string name="doctor10_appointment">+8801897656710</string>
+
+    <!-- Doctor 11 -->
+    <string name="doctor11_name">Dr. Anika Rahman</string>
+    <string name="doctor11_subject">MBBS, MPH (Oncology)</string>
+    <string name="doctor11_appointment">+8801876456711</string>
+
+    <!-- Doctor 12 -->
+    <string name="doctor12_name">Dr. Rafiqul Islam</string>
+    <string name="doctor12_subject">MBBS, MS (Urology)</string>
+    <string name="doctor12_appointment">+8801823456712</string>
+
+    <!-- Doctor 13 -->
+    <string name="doctor13_name">Dr. Aminul Haque</string>
+    <string name="doctor13_subject">MBBS, FCPS (Nephrology)</string>
+    <string name="doctor13_appointment">+8801897456713</string>
+
+    <!-- Doctor 14 -->
+    <string name="doctor14_name">Dr. Tasnim Rahman</string>
+    <string name="doctor14_subject">MBBS, PhD (Rheumatology)</string>
+    <string name="doctor14_appointment">+8801873456714</string>
+
+    <!-- Doctor 15 -->
+    <string name="doctor15_name">Dr. Shahidul Islam</string>
+    <string name="doctor15_subject">MBBS, MS (ENT)</string>
+    <string name="doctor15_appointment">+8801867456715</string>
+
+    <!-- Doctor 16 -->
+    <string name="doctor16_name">Dr. Nusrat Jahan</string>
+    <string name="doctor16_subject">MBBS, FCPS (Gastroenterology)</string>
+    <string name="doctor16_appointment">+8801832456716</string>
+
+    <!-- Doctor 17 -->
+    <string name="doctor17_name">Dr. Jamal Ahmed</string>
+    <string name="doctor17_subject">MBBS, MRCOG (Obstetrics)</string>
+    <string name="doctor17_appointment">+8801893456717</string>
+
+    <!-- Doctor 18 -->
+    <string name="doctor18_name">Dr. Rahim Uddin</string>
+    <string name="doctor18_subject">MBBS, MS (Plastic Surgery)</string>
+    <string name="doctor18_appointment">+8801872456718</string>
+
+    <!-- Doctor 19 -->
+    <string name="doctor19_name">Dr. Saira Khan</string>
+    <string name="doctor19_subject">MBBS, FCPS (Hematology)</string>
+    <string name="doctor19_appointment">+8801862456719</string>
+
+    <!-- Doctor 20 -->
+    <string name="doctor20_name">Dr. Abdul Bari</string>
+    <string name="doctor20_subject">MBBS, DPM (Psychology)</string>
+    <string name="doctor20_appointment">+8801823456720</string>
+
+    <!-- Doctor 21 -->
+    <string name="doctor21_name">Dr. Anwar Hossain</string>
+    <string name="doctor21_subject">MBBS, DLO (Otolaryngology)</string>
+    <string name="doctor21_appointment">+8801892456721</string>
+
+    <!-- Doctor 22 -->
+    <string name="doctor22_name">Dr. Jannatul Ferdous</string>
+    <string name="doctor22_subject">MBBS, FCPS (Radiology)</string>
+    <string name="doctor22_appointment">+8801871456722</string>
+
+    <!-- Doctor 23 -->
+    <string name="doctor23_name">Dr. Zakir Hossain</string>
+    <string name="doctor23_subject">MBBS, MS (Neurosurgery)</string>
+    <string name="doctor23_appointment">+8801861456723</string>
+
+    <!-- Doctor 24 -->
+    <string name="doctor24_name">Dr. Nahid Akhtar</string>
+    <string name="doctor24_subject">MBBS, MD (Rheumatology)</string>
+    <string name="doctor24_appointment">+8801831456724</string>
+
+    <!-- Doctor 25 -->
+    <string name="doctor25_name">Dr. Tarek Mahmud</string>
+    <string name="doctor25_subject">MBBS, FCPS (Nephrology)</string>
+    <string name="doctor25_appointment">+8801891456725</string>
+
+
+</resources>
